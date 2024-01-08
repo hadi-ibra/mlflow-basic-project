@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hadiibrahim/Dev/Projects/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC-main/mlruns/0/73afc036aa1f4a97bc4889ed1cf433e3/artifacts
+deleted_time: 1704732590171
+end_time: 1704731985085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 73afc036aa1f4a97bc4889ed1cf433e3
+run_name: indecisive-crow-250
+run_uuid: 73afc036aa1f4a97bc4889ed1cf433e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704731983222
+status: 3
+tags: []
+user_id: hadiibrahim

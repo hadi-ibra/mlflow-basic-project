@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hadiibrahim/Dev/Projects/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC-main/mlruns/0/e9078c1307864a68b6ec96e4732608f0/artifacts
+deleted_time: 1704732590171
+end_time: 1704732368286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e9078c1307864a68b6ec96e4732608f0
+run_name: overjoyed-auk-497
+run_uuid: e9078c1307864a68b6ec96e4732608f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704732366415
+status: 3
+tags: []
+user_id: hadiibrahim
