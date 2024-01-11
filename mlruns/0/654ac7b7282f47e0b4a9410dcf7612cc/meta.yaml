@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/654ac7b7282f47e0b4a9410dcf7612cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 654ac7b7282f47e0b4a9410dcf7612cc
+run_name: popular-shrimp-472
+run_uuid: 654ac7b7282f47e0b4a9410dcf7612cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704812020829
+status: 1
+tags: []
+user_id: hadiibrahim

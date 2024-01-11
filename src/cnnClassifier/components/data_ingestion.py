@@ -13,7 +13,7 @@ class DataIngestion:
 
     
      
-    def download_file(self)-> str:
+    def d(self)-> str:
         '''
         Fetch data from the url
         '''
